@@ -8,3 +8,4 @@ git commit -m "msg or title"
 git commit -a -m "4th commit"
 
 git log (list of all commits)
+git diff (to see what are changes compared to previous files)
