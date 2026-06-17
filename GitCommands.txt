@@ -1,6 +1,10 @@
 git --version
 git init (master branch by default) or git init -b main
 git status 
+------
 git add "file1"
-git commit -m "msg or title for "
+git commit -m "msg or title"
+------(you can skip "git add" by below cmd)
+git commit -a -m "4th commit"
+
 git log (list of all commits)
