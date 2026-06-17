@@ -13,3 +13,9 @@ git diff (to see what are changes compared to previous files)
 git rm --cached filename (remove file)
 
 git clone RepoURL  (clone all the project file in remote repo to local repo)
+
+git branch -M main  (rename existing branch(master) to main)
+
+git remote add origin git@github.com:sahas0212/Git-Commands.git (adding nickname "origin" for repo path git@g...)
+
+git push -u origin main (tell github to push main branch into origin(repo path))
