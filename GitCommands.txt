@@ -9,3 +9,7 @@ git commit -a -m "4th commit"
 
 git log (list of all commits)
 git diff (to see what are changes compared to previous files)
+
+git rm --cached filename (remove file)
+
+git clone RepoURL  (clone all the project file in remote repo to local repo)
