@@ -39,5 +39,10 @@ git pull origin main  (get code from main)
 git merge branchname  (merge codes in branch to main)
 git rebase branchname  (to get linear history)
 
-
 git log --graph (to visualize branches)
+
+git checkout commitId  (time travel to older commits)
+
+git stash  (to save file without commiting with a unique stashId)
+git stash list  (list of all stash)
+git stash apply  (to apply all stashes to code)
