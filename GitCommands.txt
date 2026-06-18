@@ -35,3 +35,7 @@ git switch -  (switch to previously used branch)
 git branch (see all branches present)
 git branch -d branchname (delete branch)
 
+git pull origin main  (get code from main)
+git merge branchname  (merge codes in branch to main)
+
+git log --graph (to visualize branches)
