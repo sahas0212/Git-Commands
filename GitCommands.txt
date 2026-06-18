@@ -29,7 +29,9 @@ git tag  (list of tags)
 git show tagname  (given details about that tag)
 git push origin tagname  (to push tags to GitHub)
 
-git checkout -b newbranchname 
-git checkout newbranch / git switch newbranch
-
+git checkout -b newbranchname  / git switch -c newbranchname (create branch) 
+git checkout newbranch / git switch newbranch (Switch branch)
+git switch -  (switch to previously used branch)
 git branch (see all branches present)
+git branch -d branchname (delete branch)
+
