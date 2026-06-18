@@ -37,6 +37,7 @@ git branch -d branchname (delete branch)
 
 git pull origin main  (get code from main)
 git merge branchname  (merge codes in branch to main)
-git rebase branchname  (to get straight line history)
+git rebase branchname  (to get linear history)
+
 
 git log --graph (to visualize branches)
